@@ -7,8 +7,8 @@ import ssl
 import threading
 
 def usage():
-    print ("IRC simple Python client | by bl4de | github.com/bl4de | twitter.com/_bl4de | hackerone.com/bl4de\n")
-    print ("$ ./irc_client.py USERNAME CHANNEL\n")
+    print ("IRC simple Python client ssl | by bl4de&kamakepar \n")
+    print ("$ ./main.py USERNAME CHANNEL\n")
     print ("where: USERNAME - your username, CHANNEL - channel you'd like to join (eg. channelname or #channelname)")
 
 
